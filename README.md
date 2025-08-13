@@ -1,7 +1,7 @@
 Hi  I'm Mehedi hasan 💫
 
 
-Passionate As a Software Engineer . I'm currently working on Mobile Development. As Mobile App Devleoper I use Flutter which is a framework for Cross Platform Native App Development.
+Passionate As a Software Engineer . I'm currently working on Mobile Development. As Mobile App Devleoper I use Flutter which is a framework for Cross Platform and Native App Development.
 
 
 - 🔭 I’m currently working on Mobile Application Development
