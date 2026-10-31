@@ -1,6 +1,37 @@
 [ReadMe.md](https://github.com/user-attachments/files/34210738/ReadMe.md)
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Mehedi Hasan**, a Software Engineer in the making, passionate about building reliable, scalable and well-designed software.<br><br>I started with mobile development using **Flutter** and **Native Android (Kotlin/Java)**, and I'm now growing into a well-rounded engineer. I'm learning **backend development with Java and Spring Boot**, and sharpening my fundamentals through **problem solving and data structures & algorithms in C++**.<br><br>I care about clean code, solid architecture, and understanding how things work under the hood, not just making them work.<br><br>- 🔭 Currently building: mobile apps with Flutter and backend services with Java Spring Boot<br>- 🌱 Currently learning: Spring Boot, REST API design, system design fundamentals<br>- 🧠 Practicing: Problem solving & DSA in C++<br>- 💬 Ask me about: Flutter, Android, Firebase, REST APIs<br>- ⚡ Fun fact: I love coding and creating something new<br><br>### 🛠 Tech Stack<br>- **Languages:** C++, Java, Dart, Kotlin<br>- **Backend:** Spring Boot (learning), RESTful APIs<br>- **Mobile:** Flutter, Native Android<br>- **Databases:** MySQL, SQLite, Firebase, Hive<br>- **Tools & Practices:** Git & GitHub, Figma (UI/UX), Architectural Design Principles, Business Analysis<br><br>### 🎯 Goal<br>To become a proficient full-cycle Software Engineer who can design, build and ship production-quality software, from mobile frontends to backend systems.<br><br>### 🌐 Portfolio<br>[devmehedi-two.vercel.app](https://devmehedi-two.vercel.app/)<br><br>### 📫 Contact<br>Email: mehedihasancse1181@gmail.com
+## 💫 About Me
+
+Hi, I'm Mehedi Hasan, a Software Engineer in the making, passionate about building reliable, scalable and well-designed software.
+
+I started with mobile development using Flutter and Native Android (Kotlin/Java), and I'm now growing into a well-rounded engineer. Currently I'm learning backend development with Java and Spring Boot, and sharpening my fundamentals through problem solving and data structures & algorithms in C++.
+
+I care about clean code, solid architecture, and understanding how things work under the hood, not just making them work.
+
+- 🔭 Currently building: mobile apps with Flutter and backend services with Spring Boot
+- 🌱 Currently learning: Spring Boot, REST API design, system design fundamentals
+- 🧠 Practicing: Problem solving & DSA in C++
+- 💬 Ask me about: Flutter, Android, Firebase, REST APIs
+
+<br>
+
+### 🛠 Tech Stack
+
+| | |
+|---|---|
+| Languages | C++, Java, Dart, Kotlin |
+| Backend | Spring Boot (learning), RESTful APIs |
+| Mobile | Flutter, Native Android |
+| Databases | MySQL, SQLite, Firebase, Hive |
+| Tools | Git & GitHub, Figma, Architectural Design Principles |
+
+### 🎯 Goal
+
+To become a proficient full-cycle Software Engineer who can design, build and ship production-quality software, from mobile frontends to backend systems.
+
+### 📫 Connect
+
+- Portfolio: [devmehedi-two.vercel.app](https://devmehedi-two.vercel.app/)
+- Email: mehedihasancse1181@gmail.com
 
 
 ## 🌐 Socials:
