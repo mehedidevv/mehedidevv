@@ -1,25 +1,19 @@
-Hi  I'm Mehedi hasan 💫
+[ReadMe.md](https://github.com/user-attachments/files/34210738/ReadMe.md)
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>Hi, I'm **Mehedi Hasan**, a Software Engineer in the making, passionate about building reliable, scalable and well-designed software.<br><br>I started with mobile development using **Flutter** and **Native Android (Kotlin/Java)**, and I'm now growing into a well-rounded engineer. I'm learning **backend development with Java and Spring Boot**, and sharpening my fundamentals through **problem solving and data structures & algorithms in C++**.<br><br>I care about clean code, solid architecture, and understanding how things work under the hood, not just making them work.<br><br>- 🔭 Currently building: mobile apps with Flutter and backend services with Java Spring Boot<br>- 🌱 Currently learning: Spring Boot, REST API design, system design fundamentals<br>- 🧠 Practicing: Problem solving & DSA in C++<br>- 💬 Ask me about: Flutter, Android, Firebase, REST APIs<br>- ⚡ Fun fact: I love coding and creating something new<br><br>### 🛠 Tech Stack<br>- **Languages:** C++, Java, Dart, Kotlin<br>- **Backend:** Spring Boot (learning), RESTful APIs<br>- **Mobile:** Flutter, Native Android<br>- **Databases:** MySQL, SQLite, Firebase, Hive<br>- **Tools & Practices:** Git & GitHub, Figma (UI/UX), Architectural Design Principles, Business Analysis<br><br>### 🎯 Goal<br>To become a proficient full-cycle Software Engineer who can design, build and ship production-quality software, from mobile frontends to backend systems.<br><br>### 🌐 Portfolio<br>[devmehedi-two.vercel.app](https://devmehedi-two.vercel.app/)<br><br>### 📫 Contact<br>Email: mehedihasancse1181@gmail.com
 
 
-Passionate As a Software Engineer . I'm currently working on Mobile Development. As Mobile App Devleoper I use Flutter which is a framework for Cross Platform and Native App Development.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mehedi.hasan.384283?rdid=Z9xET3C9jSM1cxVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14vR8s9RQid%2F#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-5a0b2a224/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mehedidevv) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mehedi Hasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehedihasan01201@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mehedidevv&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mehedidevv&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehedidevv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on Mobile Application Development
-🌱 I’m currently working Flutter
+---
+[![](https://komarev.com/ghpvc/?username=mehedidevv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 Ask me about 'Mobile Application Development'
-
-📫 How to reach me Email: mehedihasancse1181@gmail.com || WhatsApp or Call: +8801742711184
-
-⚡ Fun fact Love to coding & generate something new
-
-Skills I have
-Languages : Dart, Java, Kotlin
-Frameworks : Flutter, Native Android
-Database: Firebase,MySql, SQLite, Hive(Local) etc
-Strong knowledge in RESTful web-services/API
-Proficient in Architectural Design Principles and Skilled in Communicating and Promoting Them Across Diverse Teams.
-Good problem solving skill
-Figma for UI/UX
-Proper knowledge of Github, Version Controll
-Know about business analysis
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
