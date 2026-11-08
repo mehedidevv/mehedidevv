@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mehedi Hasan 👋</h1>
 <h3 align="center">Software Engineer | Mobile Application & Backend Systems Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedidevv&label=Profile%20views&color=0e75b6&style=flat" alt="mehedidevv" /> </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=Flutter+%26+Native+Android+Developer;Spring+Boot+%26+Backend+Enthusiast;Problem+Solver+%26+DSA+in+C%2B%2B;Clean+Code+%26+Architecture+Advocate">
